@@ -78,16 +78,7 @@ html, body {
 	padding: 2%;
     margin: 50px auto;
 	margin-bottom: 2%;
-	border-top-width: 30px;
-	border-style: solid;
-	border-color: azure;
-	border-right: 10px;
-	border-style: solid;
-	border-color: azure;
-	border-left: 15px;
-	border-style: solid;
-	border-color: azure;
-	border-bottom: 10px;
+	border-width: 30px 10px 10px 15px;
 	border-style: solid;
 	border-color: azure;
  	background: rgb(94, 140, 214); /*this uses opacity of 75% for the background color*/
