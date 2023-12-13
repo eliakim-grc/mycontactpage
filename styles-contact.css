@@ -81,7 +81,7 @@ html, body {
 	border-width: 30px 10px 10px 15px;
 	border-style: solid;
 	border-color: azure;
- 	background: rgb(94, 140, 214); /*this uses opacity of 75% for the background color*/
+ 	background: rgb(170, 205, 233); 
 	text-align: center;
 	
 }
@@ -96,7 +96,7 @@ html, body {
 	border-color:blanchedalmond;
 	border-radius: 10px;
 	text-align: center;
-	background-color:rgba(72, 182, 193, 0.9);
+	background-color:rgba(59, 149, 165, 0.9);
 }
 
 h1 {
@@ -114,7 +114,7 @@ h2 {
 	font-family: "sharik-sans", sans-serif;
 	font-size: 1.5em;
     line-height: 1.4;
-    color: #fff;
+    color: #2c2c2c;
     padding: 0px 0px;
     margin: 0px auto 25px auto;
 }
@@ -124,7 +124,7 @@ p {
 	font-family: "sharik-sans", sans-serif;
 	font-size: 1.2em;
     line-height: 1.6;
-    color: rgb(209, 209, 209)
+    color: rgb(27, 27, 27)
 }
 
 nav{
@@ -147,12 +147,12 @@ nav a{
 	padding: 10px;
 }
 a{
-	color: #444;
+	color: #1c1c1c;
 	text-decoration: none;
 	font-weight: bold;
 }
 
 a:hover{
-	color: lightgray;
-	background: blue;
+	color: rgb(240, 240, 240);
+	background: rgb(103, 103, 168);
 }
